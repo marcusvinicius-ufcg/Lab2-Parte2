@@ -1,0 +1,5 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/master/vera/lab2-parte2-si1/conf/META-INF,/home/master/vera/lab2-parte2-si1/target/scala-2.10/classes/META-INF)[0m
+[0m[[0mdebug[0m] [0m	(/home/master/vera/lab2-parte2-si1/conf/application.conf,/home/master/vera/lab2-parte2-si1/target/scala-2.10/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/master/vera/lab2-parte2-si1/conf/routes,/home/master/vera/lab2-parte2-si1/target/scala-2.10/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/home/master/vera/lab2-parte2-si1/conf/META-INF/persistence.xml,/home/master/vera/lab2-parte2-si1/target/scala-2.10/classes/META-INF/persistence.xml)[0m
